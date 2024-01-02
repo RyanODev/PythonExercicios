@@ -15,4 +15,4 @@ def fatorial(num, show=False):
 
 
 fator = int(input('Digite um número: '))
-print(fatorial(fator, True))
+print(fatorial(fator))
